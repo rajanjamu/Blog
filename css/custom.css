@@ -1,0 +1,23 @@
+.center-image {
+  margin: 0 auto;
+  display: block;
+}
+
+.float-right {
+  float: right;
+}
+
+.site-header .wrapper .site-title img {
+  height: 30px;
+  padding-bottom: 10px;
+  padding-right: 5px;
+}
+
+.author {
+  font-size: 0.8em;
+  color: gray;
+}
+
+.small-image {
+  width: 30%;
+}

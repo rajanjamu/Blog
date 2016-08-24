@@ -1,0 +1,12 @@
+# Site settings
+title: Rajanjamu
+email: rajanjamu@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  In the quest of discovering myself !
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://rajanjamu.github.io" # the base hostname & protocol for your site
+twitter_username: rajanjamu1
+github_username:  rajanjamu
+
+# Build settings
+markdown: kramdown

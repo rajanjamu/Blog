@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Cheer Up"
+date:   2014-09-10 14:46:48
+categories: jekyll update
+---
+
+<img class="center-image" src="/assets/cheer.jpeg">
+
+And Rajan, what can we say? Embrace thanks you. For having stayed this long to see things through, and for having pulled all those late hours and weekends to get us this far. Most others in your position would have put in less than half the effort you did while serving notice period, if that, and wouldn't have shown anywhere near the dedication you have in seeing this effort through. It speaks volumes of your maturity, professionalism, and commitment at a tender age. Your Embrace family is deeply deeply grateful. And a lot of babies will be even more grateful in the near future.
+
+Cheers<br>
+Rahul Alex Panicker, PhD<br>
+Co-founder and President, Products<br>
+[Embrace Innovations][Embrace Innovations]<br>
+
+[Embrace Innovations]:  http://www.embraceinnovations.com/
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help

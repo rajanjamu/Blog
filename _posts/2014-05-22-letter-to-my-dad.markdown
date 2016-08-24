@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "A letter to my dad"
+date:   2014-05-22 13:34:48
+categories: jekyll update
+---
+Papa,
+
+I am glad to have learnt so many things from you. You are truly a person I hold up to in extreme times. You bring smile to my face and tears in my eyes. I imagine two of us with muscular build, black suit, black shades, standing on top of the hill, looking down at the world, peeping deep into the future to change the world for the better. I imagine we talking about things at global level. You taught me how to think big. You made me dream unimaginable. You sometimes create reality distortion field. You have more confidence in me than myself. You sometimes address 100s of employees in a gathering, and at other times, clean the garbage we create on streets. You sometimes argue for a rupee, while give me a budget of even a crore for books. I still remember when you asked me to apply for being successor of Ratan Tata when he was retiring. I ignored it for a moment. But then you persisted till I sent my resume to him, which obviously bounced even after multiple tries. You instilled confidence in me. You made me realize my potential, my physical personality with great mental attitude.
+
+I know I am not a perfect son. I know I am full of mistakes. But still you accept me as I am. You let me do what I want to do. But I will also not let you down. I dream of a day when I will rule the world. build an empire, leave our name behind, which generations will remember. I will make you feel proud. I am not sure if you will be there when I reach there. Its completely possible that I may even not reach there. But I will not fail. I will try and try and try. I just need you to be by my side, all the time. I assure you that anything I do will be for a greater cause, I will always be with you, in your heart. I may not show love towards you, I may ignore you, I may not talk to you for months, I may be angry with you, I may not agree with you, I may not follow you, but deep inside my heart, you are always present, remembered every moment.
+
+I chose to not follow you in my early years of professional life. I know its very hard for a father to not see his child grow in front of his eyes, sending him to a foreign land, not aware of whats happening with him and no sure if he is in a a sane group of friends and colleagues. But I wanted to follow my passion. I wanted to show you that I have that potential to change the world. I may have been immature in saying so, but more I step towards my goal, more I feel confident. And I truly thank you for standing beside me in these times. Many in my life have come and gone, many gave permanent dents in my mind and heart, many have shown disrespect, many have used me, but irrespective of how I behaved, you took all of it in a positive way. You always asked me to thank you but I never did. Not that I did not want to, but I was just not comfortable thanking people who are so close to me. Tears rolling out as I write this letter to you. Even today, I stand boldly every morning carrying a new energy with me, with a hope that I will make an impact on a huge scale in this world. I imagine myself to be not a normal human being who has taken birth to just come and go from this world unnoticed. I am special and I will prove it. Give me some time. I know I have been asking for this since ages but in my belief, I always tried to uplift myself, always tried to be better and better and better.
+
+I am ashamed of not fulfilling the only task you asked me to do, my health. I know I am very careless about my health, forget myself in everyday tasks, and go back home with thin, lean and miserable body. I will do this also papa, I do not know when, but trust me, this is something that worries me everyday. I will do it. Let me fulfill the bigger vision. That to me matters me the most at this stage. I may be wrong in prioritizing things but as usual, a stubborn person like me will understand this only in case of extreme condition. And I know and am confident that even on that day, you will stand by me and help me get out that situation. And it is on this confidence that I case choose to take risk and do as I like.
+
+Please Papa. Let me see life from my immature eyes for sometime. I will come back, help you in whatever I can, be your right hand, make you feel proud, be by your side whenever you need. But please give me some time. I will come back. I will never go away. I still remember the day when I was leaving for my first job when, in the early morning, my head was on your lap, and my legs on Mamma’s, sitting hours while I was asleep, only to find out that you wanted to ask me, “Do you still want to go?”.
+
+We together will rule the world, Papa. We will. I will help you see your dream come true. I will make it happen. I will make it happen. All I ask for is some time.
+
+Thank you Papa.
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help

@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Take a step back"
+date:   2013-02-15 13:34:48
+categories: jekyll update
+---
+And so I got the opportunity to go for a field visit and see how our baby products are working in reality. I am from a technology background and always thought that technology is the heart of any product that you want to develop. So we have all the skill that we want to change the world. But when you come out, you see that technology is just the tip of the iceberg. You come across situations which you would find silly sitting in your air conditioned cubicles in the centre of the city and tons of other facilities at our disposal. But we are the company strongly controlled by our end users as is the case with all others. If we don’t take a step back and try to understand them, they will then fail to understand us. And now, understanding these diverse set of people who live in India can become a real challenge. Their behavior, perception, standard of living, myths, religion, psychology, society, superstition, thinking, attitude, etc start throwing the dice for you with unexpected results.
+
+I was quite excited about the visit as this was for the first time I was going to see the product developed by us saving a life. After commuting over different means of transportation, we reached the place we were supposed to, where one of the male family member, quite excitedly, came to pick us up. Place was exactly I had imagined. It was off the city, at the foot of mountains, main occupation there seemed to be agriculture, children running all around, elders sitting in the verandahs, youngsters and ladies were busy at the fields, calm and quite atmosphere, cool breeze, a small lake making the life of farmers easier, we ride on a bike through and stop near a thatched hut. All the family members available rush out to see us and give us respect we could never imagine. Smile on all of their faces seemed to indicate product is working great for them. Though I couldn’t get even a single word that my colleagues and them were talking about, but emotions have no language and I see the confidence in their eyes. Touching moment was when we were taken to a room where a cute baby, who would aspire to change the world later, laid. A baby in a sound sleep on our product with green light blinking and other family members surround us with big smiles, was enough to melt my heart. That feeling of proud cannot be explained in words. For the first time in my life, I could directly relate my work to the value we are providing to some disadvantaged people, who go unnoticed in this busy world.
+
+Baby seemed to be quite active and constantly kicking blankets away, as if wanting to come out and make us all feel proud. It had gained considerable amount of weight and now improving. Now awake and confused baby was looking at the aliens and trying to solve a exponential differential equation in its mind. I tried to place my finger on its palm thinking it would hold me, but ignored. Man! I am not that evil a guy. We went over a mango tree where we were served with fresh mangoes, not yet ready but flooded with their love and respect. I couldn’t resist eating it there.
+
+There are quite a few people who get a chance like that and I am really grateful to the company to provide me this opportunity. I feel I am more closer to the humanity now and will go great lengths to keep that up. ‘Passion to change the world’
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help

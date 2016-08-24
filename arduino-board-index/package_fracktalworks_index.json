@@ -1,0 +1,44 @@
+{
+   "packages":[
+      {
+         "name":"fracktalworks",
+         "maintainer":"Fracktal Works",
+         "websiteURL":"https://fracktal.in",
+         "email":"support@fracktal.in",
+         "help":{
+            "online":"https://forum.fracktal.in"
+         },
+         "platforms":[
+            {
+               "name":"Fracktal AVR Boards",
+               "architecture":"avr",
+               "version":"1.0.0",
+               "category":"Contributed",
+               "url":"http://rajanjamu.github.io/arduino-board-index/boards/fracktalworks-1.0.0.zip",
+               "archiveFileName":"fracktalworks-1.0.0.zip",
+               "checksum":"SHA-256:dadb729933f817ab9578691ec220a1aa80f7b17052bd4829af658067d6a81701",
+               "size":"817537",
+               "help":{
+                  "online":"https://forums.fracktalworks.in"
+               },
+               "boards":[
+                  { "name":"Pintrboard" }
+               ],
+               "toolsDependencies":[
+                  {
+                     "packager":"arduino",
+                     "name":"avr-gcc",
+                     "version":"4.8.1-arduino5"
+                  },
+                  {
+                     "packager":"arduino",
+                     "name":"avrdude",
+                     "version":"6.0.1-arduino5"
+                  }
+               ]
+            }
+         ],
+         "tools":[]
+      }
+   ]
+}
